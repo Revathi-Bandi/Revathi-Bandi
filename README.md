@@ -19,12 +19,23 @@ An OCR-based web application using Python Flask, OpenCV, and Tesseract to extrac
 [View Project](https://github.com/Revathi-Bandi/Image-to-Text-Converter-OCR)
 
 ## 🛠️ Technical Skills
+## 📚 Currently Learning
 
-- **Programming:** Python
-- **Web Development:** Flask, HTML, CSS
-- **Database:** MySQL
-- **Image Processing:** OpenCV, Tesseract OCR
-- **Areas of Interest:** Data Science, Machine Learning, Artificial Intelligence
+- Data Analysis with Python
+- NumPy and Pandas
+- Data Visualization
+- Statistics and Probability
+- Machine Learning
+- SQL for Data Analysis
+
+## 🎯 Career Interests
+
+- Data Scientist
+- Data Analyst
+- Machine Learning Engineer
+- Python Developer
+
+
 
 ## 📫 Connect with Me
 
